@@ -1,0 +1,20 @@
+.heading-label {
+  font-size: 1.8rem;
+  font-weight: 600;
+  text-transform: capitalize;
+  color: #e67700;
+}
+
+.heading-note {
+  align-self: stretch;
+  /* min-height: 25rem; */
+  font-size: 1.8rem;
+  border: none;
+  outline-color: #66a80f;
+}
+
+.invalid {
+  outline: none;
+  border: solid 0.5rem #e03131;
+  background-color: #ffc9c9;
+}

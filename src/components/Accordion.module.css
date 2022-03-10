@@ -1,0 +1,30 @@
+.accordion {
+  background-color: #dee2e6;
+  border-radius: 0.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  padding: 0.6rem 0.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+}
+
+.content-heading {
+  margin-bottom: 1rem;
+}
+
+.content-text {
+}
+
+.btn-container {
+  position: absolute;
+  display: flex;
+  gap: 0.5rem;
+  top: 0.6rem;
+  right: 0.4rem;
+}
+
+.hidden {
+  display: none;
+}

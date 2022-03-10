@@ -1,0 +1,16 @@
+.delete-btn {
+  border: none;
+  text-transform: uppercase;
+  color: #ffec99;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  background: none;
+  cursor: pointer;
+  background-color: #fd7e14;
+}
+/* 
+.invalid-btn {
+  cursor: no-drop;
+  background-color: #495057;
+  color: #adb5bd;
+} */

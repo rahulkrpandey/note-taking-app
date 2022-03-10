@@ -1,0 +1,8 @@
+.form-container {
+  /* height: 25rem; */
+  max-width: 80rem;
+  margin: 3rem auto;
+  background-color: #ffec99;
+  /* background-color: blue; */
+  border-radius: 0.5rem;
+}
